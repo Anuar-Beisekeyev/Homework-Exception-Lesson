@@ -1,0 +1,13 @@
+G:\Проекты\HomeworkExceptionsLesson\HomeworkExceptionsLesson\bin\Debug\netcoreapp3.1\HomeworkExceptionsLesson.exe
+G:\Проекты\HomeworkExceptionsLesson\HomeworkExceptionsLesson\bin\Debug\netcoreapp3.1\HomeworkExceptionsLesson.deps.json
+G:\Проекты\HomeworkExceptionsLesson\HomeworkExceptionsLesson\bin\Debug\netcoreapp3.1\HomeworkExceptionsLesson.runtimeconfig.json
+G:\Проекты\HomeworkExceptionsLesson\HomeworkExceptionsLesson\bin\Debug\netcoreapp3.1\HomeworkExceptionsLesson.runtimeconfig.dev.json
+G:\Проекты\HomeworkExceptionsLesson\HomeworkExceptionsLesson\bin\Debug\netcoreapp3.1\HomeworkExceptionsLesson.dll
+G:\Проекты\HomeworkExceptionsLesson\HomeworkExceptionsLesson\bin\Debug\netcoreapp3.1\HomeworkExceptionsLesson.pdb
+G:\Проекты\HomeworkExceptionsLesson\HomeworkExceptionsLesson\obj\Debug\netcoreapp3.1\HomeworkExceptionsLesson.csprojAssemblyReference.cache
+G:\Проекты\HomeworkExceptionsLesson\HomeworkExceptionsLesson\obj\Debug\netcoreapp3.1\HomeworkExceptionsLesson.AssemblyInfoInputs.cache
+G:\Проекты\HomeworkExceptionsLesson\HomeworkExceptionsLesson\obj\Debug\netcoreapp3.1\HomeworkExceptionsLesson.AssemblyInfo.cs
+G:\Проекты\HomeworkExceptionsLesson\HomeworkExceptionsLesson\obj\Debug\netcoreapp3.1\HomeworkExceptionsLesson.csproj.CoreCompileInputs.cache
+G:\Проекты\HomeworkExceptionsLesson\HomeworkExceptionsLesson\obj\Debug\netcoreapp3.1\HomeworkExceptionsLesson.dll
+G:\Проекты\HomeworkExceptionsLesson\HomeworkExceptionsLesson\obj\Debug\netcoreapp3.1\HomeworkExceptionsLesson.pdb
+G:\Проекты\HomeworkExceptionsLesson\HomeworkExceptionsLesson\obj\Debug\netcoreapp3.1\HomeworkExceptionsLesson.genruntimeconfig.cache
